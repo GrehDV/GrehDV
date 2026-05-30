@@ -1,6 +1,6 @@
 <h1 align="center">Привет всем, я Григорий!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+<h3 align="center">Работа с СУБД CronosPRO, студент Я.Практикума "Разработчик C++"</h3>
 <!--
 **GrehDV/GrehDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
